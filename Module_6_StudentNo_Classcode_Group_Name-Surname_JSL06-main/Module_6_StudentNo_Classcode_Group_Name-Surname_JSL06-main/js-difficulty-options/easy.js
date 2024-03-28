@@ -10,7 +10,7 @@ const menu = {
 // Function to display menu items by category
 function displayMenuItems(menu) {
     // QUESTION: What do you need to get from the HTML to display the menu? Find a way to reference it.
-
+    
     // QUESTION: How can you loop through each category and its items in the menu object?
     
     for (const [category, items] of Object.entries(menu)) {
